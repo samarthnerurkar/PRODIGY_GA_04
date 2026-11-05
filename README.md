@@ -82,3 +82,11 @@ Settings to try for better results (suggestions, not from the notebook):
 ## 📄 License
 
 MIT License
+
+👤 Author
+## 👤 Author
+
+**Samarth Nerurkar**
+
+- GitHub: [@samarthnerurkar](https://github.com/samarthnerurkar)
+- LinkedIn: [Samarth Nerurkar](https://www.linkedin.com/in/samarth-nerurkar/)
