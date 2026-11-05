@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environment / secrets
+.env
+.venv/
+venv/
+
+# Model files and checkpoints
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.safetensors
+checkpoints/
+runs/
+logs/
+.cache/
+
+# Datasets (too big for GitHub)
+data/
+datasets/
+*.zip
+*.tar
+*.tar.gz
+
+# OS files
+.DS_Store
