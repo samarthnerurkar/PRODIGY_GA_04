@@ -50,18 +50,8 @@ A lightweight PyTorch implementation of a conditional GAN for image-to-image tra
 | Optimizer | Adam, lr = 2e-4, betas = (0.5, 0.999) |
 | Losses | `BCEWithLogitsLoss` + `L1Loss` |
 
-## 📊 Results
-
-Training log (sample):
-
-```
-Epoch 25/40 | D 0.412 | G 24.798
-Epoch 30/40 | D 0.319 | G 23.492
-Epoch 35/40 | D 0.482 | G 24.671
-Epoch 40/40 | D 0.564 | G 19.990
-```
-
-The generated facades follow the layout of the input label map (windows, doors, balconies) but are still blurry, since the model is small and trained for only 40 epochs at low resolution.
+## 🎬 Demo
+<img width="898" height="1677" alt="output_full_cell" src="https://github.com/user-attachments/assets/659b87dc-5069-46ca-967b-ee0a78775da7" />
 
 ## 🔄 Workflow
 
