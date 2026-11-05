@@ -83,7 +83,6 @@ Settings to try for better results (suggestions, not from the notebook):
 
 MIT License
 
-👤 Author
 ## 👤 Author
 
 **Samarth Nerurkar**
