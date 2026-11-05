@@ -1,4 +1,4 @@
-# 🏢 Conditional GAN (pix2pix style) on CMP Facades
+# 🏢 Image to Image translation with cGAN
 
 A lightweight PyTorch implementation of a conditional GAN for image-to-image translation. It learns to turn colored architectural label maps into realistic building facade images.
 
